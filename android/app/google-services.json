@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "399231375780",
+    "firebase_url": "https://rehabapp-47e0b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rehabapp-47e0b",
+    "storage_bucket": "rehabapp-47e0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399231375780:android:f8943f8d45569e063fc931",
+        "android_client_info": {
+          "package_name": "com.example.rehab_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DoVOwyCqI7JRUznG_FViJ-SnldHDivU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399231375780:android:009ed7805da20ecc3fc931",
+        "android_client_info": {
+          "package_name": "com.example.rehab_app_clean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DoVOwyCqI7JRUznG_FViJ-SnldHDivU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
